@@ -1,12 +1,12 @@
 {
   "version": "1.0.4",
   "notes": "Local build",
-  "pub_date": "2025-09-01T22:59:40.660Z",
+  "pub_date": "2025-09-01T23:17:57.432Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://raw.githubusercontent.com/copymonkey-lab/sbtaurishare/main/artifacts/latest/Sabangnet%20Dashboard_1.0.0_x64-setup.exe",
-      "hash": "sha256:95efde5b3a7f8c7e91ecfd8480ae9bf8a4fa94f2ed95da49272b18629eca89cd"
+      "url": "https://raw.githubusercontent.com/copymonkey-lab/sbtaurishare/main/artifacts/latest/Sabangnet%20Dashboard_1.0.4_x64-setup.exe",
+      "hash": "sha256:175b89e0eeb1c2831f1ab74a83d889f27fd5e7b1409239c343e2359ab5b56ac4"
     }
   }
 }
