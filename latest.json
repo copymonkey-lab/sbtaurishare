@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Local build",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://raw.githubusercontent.com/copymonkey-lab/sbtaurishare/main/artifacts/latest/Sabangnet Dashboard_1.0.0_x64-setup.exe",
+      "hash": "sha256:95efde5b3a7f8c7e91ecfd8480ae9bf8a4fa94f2ed95da49272b18629eca89cd"
+    }
+  }
+}
